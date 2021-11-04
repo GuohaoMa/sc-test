@@ -1,0 +1,6 @@
+time="2021-11-04 12:06:04.068" level=error msg="/home/gh/go/src/dev/test/sc/car is not a directory" func=CheckInputDir file="common.go:81"
+time="2021-11-04 12:06:04.068" level=error msg="/home/gh/go/src/dev/test/sc/car is not a directory" func=CreateCarFiles file="car.go:22"
+time="2021-11-04 12:06:23.681" level=error msg="/home/gh/go/src/dev/test/sc/deal/car is not a directory" func=CheckInputDir file="common.go:81"
+time="2021-11-04 12:06:23.681" level=error msg="/home/gh/go/src/dev/test/sc/deal/car is not a directory" func=CreateCarFiles file="car.go:22"
+time="2021-11-04 12:08:44.589" level=error msg="error, code:1, message:failed to import file using unixfs: failed to open input file: open /home/gh/go/src/dev/test/deal/source/car.csv: no such file or directory" func=LotusClientGenCar file="client.go:247"
+time="2021-11-04 12:08:44.589" level=error msg="error, code:1, message:failed to import file using unixfs: failed to open input file: open /home/gh/go/src/dev/test/deal/source/car.csv: no such file or directory" func=CreateCarFiles file="car.go:56"
